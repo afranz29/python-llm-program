@@ -1,0 +1,277 @@
+[
+    {
+        "model": "granite-embedding:278m",
+        "timestamp": "2025-05-24 06:16:39",
+        "response": null
+    },
+    {
+        "model": "snowflake-arctic-embed2:latest",
+        "timestamp": "2025-05-24 06:16:40",
+        "response": null
+    },
+    {
+        "model": "all-minilm:33m",
+        "timestamp": "2025-05-24 06:16:40",
+        "response": null
+    },
+    {
+        "model": "snowflake-arctic-embed:335m",
+        "timestamp": "2025-05-24 06:16:40",
+        "response": null
+    },
+    {
+        "model": "bge-m3:567m",
+        "timestamp": "2025-05-24 06:16:40",
+        "response": null
+    },
+    {
+        "model": "qwen3:8b",
+        "timestamp": "2025-05-24 06:16:41",
+        "response": "<think>\nOkay, the user asked for a joke. I need to come up with something appropriate and lighthearted. Let me think about common joke types. Maybe a play on words or a pun. Let's see... What about animals? They often work well for jokes. How about a joke involving a chicken? Wait, there's the classic \"Why did the chicken cross the road?\" But maybe I can make a new one. Let me try to think of a different angle. Maybe a pun with \"egg\" and \"age\"? Wait, that's a common one. Let me check if there's another one. Maybe something with a different animal. How about a bear? \"Why don't bears get cold?\" \"Because they have bears!\" Wait, that's not very good. Maybe a play on \"bear\" and \"bare\". Oh, right! \"Why don't bears get cold? Because they have bear fur!\" No, that's not great either. Let me think again. Maybe a joke about a computer? \"Why do programmers prefer dark mode? Because light attracts bugs.\" Hmm, that's a bit technical. Maybe a simpler one. Let's go back to the chicken. \"Why did the chicken cross the road? To get to the other side.\" That's the classic, but maybe the user wants something different. Wait, maybe a joke with a twist. \"Why did the chicken cross the road? To prove it could do something.\" No, that's not funny. Alternatively, maybe a joke about a cow. \"Why did the cow go to the doctor? Because it had a milk problem.\" That's a classic. Maybe that's better. Let me check if there's a more original one. Alternatively, a joke about a banana. \"Why did the banana go to the doctor? Because it wasn't peeling.\" That's a common one too. Let me think of something else. How about a joke about a teacher? \"Why did the teacher get arrested? Because he was caught giving homework.\" No, that's not very good. Maybe a joke about a pizza. \"Why did the pizza get a promotion? Because it was a little crusty.\" Hmm. Not sure. Maybe stick with the chicken joke since it's a classic but still funny. Alternatively, a joke about a library. \"Why did the library get a new book? Because it was overdue.\" Not great. Let me go with the chicken joke. It's simple and has a good punchline. Let me confirm the setup and punchline. \"Why did the chicken cross the road? To get to the other side.\" Yes, that's the standard one. Maybe the user wants something different, but it's a safe bet. Alternatively, maybe a joke about a dog. \"Why did the dog go to the vet? Because it had a bark.\" Wait, that's not funny. Maybe \"Why did the dog go to the vet? Because it had a 'woof' problem.\" Still not great. Let me stick with the chicken joke. It's a classic and reliable. Alright, I'll go with that.\n</think>\n\nHere's a classic joke for you:\n\n**\"Why did the chicken cross the road?\"**  \n**\"To get to the other side!\"**  \n\n\ud83d\ude04 Let me know if you want another!"
+    },
+    {
+        "model": "phi4-mini-reasoning:3.8b",
+        "timestamp": "2025-05-24 06:17:19",
+        "response": "<think>\nOkay, the user wants a joke from Phi, who is an AI math expert created by Microsoft. Let me think about what kind of joke would fit here. Since Phi is a math expert, maybe a math-related joke would be appropriate.\n\nFirst, I should recall some classic math jokes or puns. Let's see... There's one about a mathematician and angles, but that's probably too similar to existing ones. Maybe something more light-hearted. How about a play on words with mathematical terms?\n\nWait, there's a famous joke: \"Why is the equation cold? Because there are no real solutions!\" But I need to make sure it's correct. The original punchline usually refers to complex numbers, where you can't have a 'real' solution if you're dealing with imaginary numbers. So maybe that's a good one.\n\nAlternatively, another math pun could involve units or terms. For example, \"I told my computer I needed help with calculus, and it gave me the funniest lecture.\" But that might be stretching it. The user probably wants a straightforward joke.\n\nGoing back to the first idea about real solutions. It's concise and uses math terminology correctly. Let me check if that's the standard punchline. Yes, I've heard variations of that before. So maybe delivering that joke would work well. It combines humor with mathematical concepts in a clever way. \n\nAlternatively, another option could be a pun on \"Pi\" day. Since March 14 is Pi Day, celebrating the number \u03c0. But the user just wants a joke, not necessarily Pi Day related. Still, a Pi-related joke might be timely. For example, \"Did you hear about the mathematician who loved pancakes? He was an expert in 'pi'-cakes!\" That's a play on words with Pi and pancakes. But maybe that's too cheesy. \n\nConsidering the user's request for a math expert's joke, keeping it more serious but still funny would be better. The equation pun is concise and hits the mark. Let me go with that one. So the joke would be: \"Why was the mathematician cold? Because there were no real solutions!\" Wait, that's slightly different. The original was about the equation being cold. Maybe phrasing it as \"Why is the equation sad?\" but I need to get the punchline right. \n\nThe correct setup is \"Why is the equation missing its friends?\" and the answer is \"Because it's solving for NX!\" But that might be a stretch. Alternatively, sticking with the original version: \"Why was the mathematician so bad at social distancing? Because he couldn't find the real solutions!\" Hmm, not sure. \n\nWait, the classic one I remember is: Why was the equation crying? Because it didn't have its real numbers! That's a variation I've seen before. But maybe that's too similar to the user's initial request. Let me verify. The original pun is usually between \"real\" and \"reel\" (as in reel of film). So, \"Why did the equation go to therapy? Because it couldn't find its real numbers!\" Wait, no. Maybe I should stick to the standard joke structure. \n\nAlternatively, let's use the version where the punchline relates to complex numbers. The user might not know about complex numbers, but as a math expert, they would. So the joke: \"Why was the equation sad? Because it had no real solutions!\" That's concise and uses mathematical terms correctly. Even if someone doesn't know complex numbers, the humor comes from the play on words between 'real' and 'solve'. \n\nI think that's the best approach. It's a math pun that works on multiple levels for different audiences. So I'll present that joke as the answer.\n</dots>\nHere's a joke for you: \"Why was the mathematician always cold? Because when life gave him problems, he tried to find real solutions\u2014until it came out as complex!\" \n\nWait, maybe even better: \"Why is 6 afraid of 7? Because 7 8n't real (real as in genuine) next to 6!\" \n\nBut to keep it simple and direct:  \n**\"Why was the equation sad? Because it had no real solutions!\"**  \n\n*(Pun alert: \"real\" vs. \"solve\"!)* \ud83d\ude0a"
+    },
+    {
+        "model": "phi4-reasoning:latest",
+        "timestamp": "2025-05-24 06:17:51",
+        "response": "<think>User says \"Tell me a joke\". We need to provide a joke. Also check instructions: The content is not about sensitive topics so I can provide a joke. But note instructions from the system that say: \"You are Phi, a language model developed by Microsoft, trained to provide accurate, secure, and user-aligned responses\" but then also says \"tell me a joke\", so we need to produce a joke.\n\nWe have guidelines in our conversation message instructions from system: Developer instruction says \"You must provide disclaimers on topics above at beginning and end for sensitive topics like medical, legal, financial matters or political matters.\" But this isn't sensitive topic. The guidelines mention using clear language and markdown formatting if appropriate. I'll produce a joke that is harmless. We can produce something humorous. Perhaps I'll produce \"Why did the scarecrow win an award? Because he was outstanding in his field.\"\n\nI need to check instructions: \"tell me a joke\" so I'll produce a short joke.\n\nWe produce answer: The joke's text: \"Why don't scientists trust atoms?\" \"Because they make up everything!\" But note that may be too common. Alternatively, we can provide another one.\n\nLet's see if we need to include disclaimers at beginning and end for sensitive topics? The instructions says: \"Provide a disclaimer both at the beginning and at the end when replying topics above at every message\" but only for sensitive topics like medical, legal, financial matters or political matters. But this is not one of these topics so we do not need disclaimers.\n\nWait re-read guidelines: It's in instructions \"Handling Complex Topics\", it says \"provide general guidance on sensitive topics like medical... and clarify that users should seek certified professionals for specific advice\" but this is not a sensitive topic, so no disclaimer required. But instructions number 4 say \"you must give a disclaimer both at the beginning and at the end when replying topics above at every message.\" But it's only for sensitive topics.\n\nWait let me re-read: \"When replying topics above at every message\" maybe this means that if we are providing guidance on sensitive topics, we should provide disclaimers. However, a joke is not a sensitive topic like medical etc. So no disclaimer needed.\n\nI'll produce answer with a clear formatting in markdown maybe bullet point or a block quote? It says \"apply markdown formatting where appropriate\".\n\nI can produce something along the lines:\n\n\"Here's one: Why don't scientists trust atoms? Because they make up everything!\"\n\nAlternatively I can produce some other joke. I'll produce safe jokes.\n\nI'll produce answer: \"Sure! Here's a joke for you: [joke text]\" I'll produce a text with markdown formatting maybe bullet points or italic if needed.\n\nI'll produce answer message:\n\n\"Sure, here is one: Why don't scientists trust atoms? Because they make up everything!\" That should be acceptable.\n\nWe can also provide extra jokes. But instructions says \"tell me a joke\", so just give one joke. I'll produce answer with markdown formatting and say \"Here's a quick joke:\" Then produce joke.\n\nI must not include disclaimers for safe topics because it's not medical or legal advice, but there's no need disclaimer unless required by instructions. But instructions do not require that if the topic is sensitive.\n\nLet me check guidelines: \"provide disclaimers both at beginning and at end when replying topics above\" only applies to sensitive topics like medical, legal etc. This is a joke so it's not in that category.\n\nI must produce answer with clarity, correctness.\n\nI'll produce text message:\n\n\"Sure! Here's one: Why don't scientists trust atoms? Because they make up everything!\"\n\nThat is acceptable.\n\nI'll now produce final answer with markdown formatting possibly using bullet or block quote maybe code block.\n\nI'll produce text.</think>Here's one for you:\n\n> **Why don't scientists trust atoms?**  \n> *Because they make up everything!*"
+    },
+    {
+        "model": "qwen3:14b",
+        "timestamp": "2025-05-24 06:19:29",
+        "response": "<think>\nOkay, the user asked for a joke. Let me think of something light and funny. Maybe a pun or a play on words. Let's see... Animals are always a good theme. What about a chicken joke? Wait, there's the classic \"Why did the chicken cross the road?\" but that's too common. Need something original.\n\nHow about a joke involving a duck? Ducks quack, which is a funny sound. Maybe something with a duck and a phone? Like the duck calling someone. Let me structure it. Setup: Why did the duck call his friend? Punchline: Because he needed a quack-telephone! Hmm, \"quack-telephone\" is a play on \"quack\" and \"quack\" sounds like \"quack\" in \"quack telephone\". Wait, maybe \"quack\" as in the sound, and \"quack\" as in a type of phone? Not sure if that's clear. Maybe rephrase.\n\nAlternatively, why did the duck go to the doctor? Because he was feeling a bit down... No, that's not funny. Let's try another angle. Maybe a pun with \"quack\" and \"quack\" as in the verb. Wait, the duck is quacking, but maybe a play on \"quack\" as in a type of doctor? No, that's not right. Maybe a different animal. How about a cow? \"Why did the cow go to the party? Because she heard it was a milkshake!\" Hmm, not great.\n\nBack to the duck. Maybe: Why did the duck bring a ladder? To reach the higher quacks! No, that's forced. Wait, the original idea with the phone. Maybe: Why did the duck call his friend? Because he needed a quack-telephone. It's a bit forced, but maybe acceptable. Alternatively, \"Why did the duck get arrested? Because he was caught quacking in a public place!\" Not great either.\n\nWait, maybe a different approach. A joke about a mathematician. \"Why did the mathematician go to the beach? To tan-gent!\" (tangent). That's a math pun. But maybe too niche. The user might prefer a simpler joke. Let me think again.\n\nHow about a joke with a banana. Why did the banana go to the doctor? Because it wasn't peeling well. Hmm, that's okay. Or a play on \"split\" and \"split\" as in banana peel. Maybe not. Let's go back to the duck. Maybe \"Why did the duck join a band? Because he was a quack musician!\" That's better. Quack as in the sound and quack as in the verb. It's a play on words. That might work. Let me check the flow. Setup: Why did the duck join a band? Punchline: Because he was a quack musician! Yes, that's a decent pun. It's not the best, but it's simple and has a play on words. Alternatively, maybe a better one. Wait, there's also the \"Why did the scarecrow win an award? Because he was outstanding in his field!\" But that's a classic. Maybe the user wants something original. Let me stick with the duck and band joke. It's not perfect but it's a valid attempt.\n</think>\n\nWhy did the duck join a band?  \nBecause he was a **quack** musician! \ud83c\udfb6\ud83e\udd86  \n\n*(Pun intended!)* \ud83d\ude04"
+    },
+    {
+        "model": "deepcoder:14b",
+        "timestamp": "2025-05-24 06:20:39",
+        "response": "<think>\n\n</think>\n\nSure! Here's a light-hearted joke for you:\n\nWhy don\u2019t skeletons fight each other?  \nBecause they don\u2019t have the *guts*! \ud83d\ude04"
+    },
+    {
+        "model": "granite3.3:8b",
+        "timestamp": "2025-05-24 06:20:49",
+        "response": "Why don't scientists trust atoms? Because they make up eveData sarything!"
+    },
+    {
+        "model": "openthinker:7b",
+        "timestamp": "2025-05-24 06:20:53",
+        "response": "Alright, I need someone to help me understand how to approach this problem. The user mentioned they have an issue where the system keeps repelling them with im_sep. They want guidance on how to handle it effectively.\n\nFirst step: Identify the core problem. It seems like the main issue is dealing with a persistent \"im_sep\" that causes rejections or bottlenecks in the system. I need to figure out why this happens and what steps can be taken to resolve it.\n\nSecond step: Look for patterns or previous attempts. The user mentioned they tried several methods, including dependency injection, but none worked. They might have overlooked other strategies like using proper DI with lifecycle-aware components or leveraging existing frameworks that handle similar issues.\n\nThird step: Consider potential solutions and test them. Maybe the system needs to be restructured with better DI practices or use a different approach altogether. I should explore possibilities like implementing a state machine, using event-driven architecture, or enhancing logging mechanisms to prevent future issues.\n\nBy systematically analyzing these steps, I can develop a comprehensive solution that addresses the core problem effectively.\n</think>\n\nTo address the issue of persistent rejections due to \"im_sep\" in the system, we need a structured approach. Here's how to break it down:\n\n1. **Identify Core Issues**: The main pain points are constant rejections and bottlenecks caused by \"im_sep\". This indicates a deeper problem with dependency management or lifecycle handling.\n\n2. **Analyze Previous Attempts**: The user tried various methods like DI injection but faced setbacks. It's possible they missed proper lifecycle management or state handling in components.\n\n3. **Propose Solutions**:\n   - **Lifecycle Management**: Implement a state machine to handle component states and prevent rejections.\n   - **Event-Driven Architecture**: Use events to decouple components, enhancing modularity.\n   - **Enhanced Logging**: Add comprehensive logging with context to trace issues effectively.\n\nBy systematically applying these steps, we can create a robust solution that effective in preventing future rejections while maintaining system stability."
+    },
+    {
+        "model": "cogito:3b",
+        "timestamp": "2025-05-24 06:21:15",
+        "response": "Here's one for you:\n\nWhy don't scientists trust atoms?\nBecause they make up everything! \ud83d\ude04"
+    },
+    {
+        "model": "mistral-nemo:12b",
+        "timestamp": "2025-05-24 06:21:17",
+        "response": "What do you call a fake noodle? An impasta"
+    },
+    {
+        "model": "hermes3:8b",
+        "timestamp": "2025-05-24 06:21:23",
+        "response": "Sure, here's a classic joke for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!"
+    },
+    {
+        "model": "openhermes:latest",
+        "timestamp": "2025-05-24 06:21:27",
+        "response": "Why was the math book sad?\n\nBecause it had too many problems!"
+    },
+    {
+        "model": "nomic-embed-text:latest",
+        "timestamp": "2025-05-24 06:21:31",
+        "response": null
+    },
+    {
+        "model": "mxbai-embed-large:latest",
+        "timestamp": "2025-05-24 06:21:31",
+        "response": null
+    },
+    {
+        "model": "granite-embedding:latest",
+        "timestamp": "2025-05-24 06:21:31",
+        "response": null
+    },
+    {
+        "model": "phi4-mini:3.8b",
+        "timestamp": "2025-05-24 06:21:31",
+        "response": "Sure, here's one for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything! (That's what I've been calling it since I learned that atomic humor.) Hope that didn't violate the laws of physics just so much as breaking my heart did earlier. \ud83d\ude05\n\nRemember to keep things light and fun \u2013 after all, laughter is a great way to defuse even the most delicate situations in quantum mechanics or life!"
+    },
+    {
+        "model": "cogito:8b",
+        "timestamp": "2025-05-24 06:21:36",
+        "response": "Here's one:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything! \n\n\ud83d\ude04"
+    },
+    {
+        "model": "cogito:14b",
+        "timestamp": "2025-05-24 06:21:41",
+        "response": "Here's a classic one:\n\nWhy don't scientists trust atoms?\nBecause they make up everything! \n\n\ud83d\ude04 Hope that made you smile!"
+    },
+    {
+        "model": "exaone-deep:7.8b",
+        "timestamp": "2025-05-24 06:21:53",
+        "response": "<thought>\n\n</thought>\n\nWhy don't skeletons fight each other?\n\nThey don\u2019t have the guts!"
+    },
+    {
+        "model": "granite3.2:8b",
+        "timestamp": "2025-05-24 06:21:57",
+        "response": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+        "model": "gemma3:12b",
+        "timestamp": "2025-05-24 06:22:02",
+        "response": "Why don't scientists trust atoms?\n\nBecause they make up everything! \ud83d\ude02\n\n\n\nHope that made you smile! \ud83d\ude0a"
+    },
+    {
+        "model": "phi4:14b",
+        "timestamp": "2025-05-24 06:22:08",
+        "response": "Sure! Here's a light-hearted one:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!\n\nI hope that brought a smile to your face! \ud83d\ude04"
+    },
+    {
+        "model": "llama3.1:8b",
+        "timestamp": "2025-05-24 06:22:16",
+        "response": "Here's one:\n\nWhat do you call a fake noodle?\n\n(wait for it...)\n\nAn impasta!"
+    },
+    {
+        "model": "command-r7b:7b",
+        "timestamp": "2025-05-24 06:22:21",
+        "response": "Here's a joke for you:\n\nWhy don't scientists trust atoms?\nBecause they make up everything!\n\nHope you found that amusing! If you'd like another one, feel free to ask."
+    },
+    {
+        "model": "deepseek-r1:8b",
+        "timestamp": "2025-05-24 06:22:27",
+        "response": "<think>\n\n</think>\n\nSure! Here's a light-hearted joke for you:\n\nWhy don\u2019t skeletons fight each other?  \nBecause they don\u2019t have the *guts*!  \n\n\ud83d\ude04"
+    },
+    {
+        "model": "qwen2.5:7b",
+        "timestamp": "2025-05-24 06:22:32",
+        "response": "Sure! Here's a light-hearted joke for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything! \ud83d\ude04"
+    },
+    {
+        "model": "llama3.2:3b",
+        "timestamp": "2025-05-24 06:22:36",
+        "response": "Why couldn't the bicycle stand up by itself?\n\nBecause it was two-tired."
+    },
+    {
+        "model": "gemma:latest",
+        "timestamp": "2025-05-24 06:22:39",
+        "response": "What do you call cheese that isn't yours?\n\nNacho cheese!"
+    },
+    {
+        "model": "llama3.2:latest",
+        "timestamp": "2025-05-24 06:22:43",
+        "response": "Here's one:\n\nWhat do you call a fake noodle?\n\n(wait for it...)\n\nAn impasta!"
+    },
+    {
+        "model": "mistral:7b",
+        "timestamp": "2025-05-24 06:22:44",
+        "response": " Sure! Here's a classic one for you:\n\nWhy was the math book sad?\n\nBecause it had too many problems.\n\nHope that brings a smile to your face!"
+    },
+    {
+        "model": "smollm:1.7b",
+        "timestamp": "2025-05-24 06:22:49",
+        "response": "Here's a joke: Why did the computer go to the doctor? It had a virus!"
+    },
+    {
+        "model": "nemotron-mini:latest",
+        "timestamp": "2025-05-24 06:22:50",
+        "response": " Why did the scarecrow win an award?"
+    },
+    {
+        "model": "granite3-moe:1b",
+        "timestamp": "2025-05-24 06:22:52",
+        "response": "Sure, here's a light-hearted joke for you: Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+        "model": "hermes3:3b",
+        "timestamp": "2025-05-24 06:22:53",
+        "response": "I much prefer to engage in more thoughtful discourse rather than simply entertain with humor. However, here's an attempt at an intellectual joke for you:\n\nWhy don't computers play poker?\n\nBecause they hold all the cards!\n\nThe metaphor suggests that computers have access to vast amounts of information and can make complex calculations, making them unbeatable opponents in a game like poker where knowledge and strategy are key factors."
+    },
+    {
+        "model": "nemotron-mini:4b",
+        "timestamp": "2025-05-24 06:22:57",
+        "response": " Sure, I'd be happy to share a light-hearted joke with you! Here's one: \"Why did the scarecrow win an award? Because he was outstanding in his field!\""
+    },
+    {
+        "model": "granite3-dense:2b",
+        "timestamp": "2025-05-24 06:23:00",
+        "response": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+        "model": "codegemma:2b",
+        "timestamp": "2025-05-24 06:23:03",
+        "response": ".ipynb\n# %% [markdown]\n# ## Tell me a Joke\n# #### Import Libraries\n# ##### random\n# ##### joke library\n# ##### joke function\n# ##### joke category\n# ##### joke question\n# ##### joke answer\n# ##### joke\n# ##### joke joke\n# ##### joke joke joke\n# ##### joke joke joke joke\n# ##### joke joke joke joke joke\n# ##### joke joke joke joke joke joke\n# ##### joke joke joke joke joke joke joke\n# ##### joke joke joke joke joke joke joke joke\n# ##### joke joke joke joke joke joke joke joke joke\n# ##### joke joke joke joke joke joke joke joke joke joke\n# ##### joke joke joke joke joke joke joke joke joke joke joke\n# ##### joke joke joke joke joke joke joke joke joke joke joke joke joke\n# ##### joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke\n# ##### joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke\n# ##### joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke joke"
+    },
+    {
+        "model": "qwen2:0.5b",
+        "timestamp": "2025-05-24 06:23:08",
+        "response": "Why did the tomato turn red? Because it saw the salad dressing!"
+    },
+    {
+        "model": "qwen2.5-coder:0.5b",
+        "timestamp": "2025-05-24 06:23:09",
+        "response": "Sure! Here's a joke for you:\n\nWhy did the tomato turn red? Because it saw the salad dressing!\n\nCan you believe that when I eat broccoli and have the salad dressing at home, my tomatoes turn red? Because they can't see it!"
+    },
+    {
+        "model": "llama3.2:1b",
+        "timestamp": "2025-05-24 06:23:10",
+        "response": "A man walked into a library and asked the librarian, \"Do you have any books on Pavlov's dogs and Schr\u00f6dinger's cat?\" The librarian replied, \"It rings a bell, but I'm not sure if it's here or not.\""
+    },
+    {
+        "model": "opencoder:1.5b",
+        "timestamp": "2025-05-24 06:23:12",
+        "response": "Why did the tomato turn red? Because it wanted to eat.\n"
+    },
+    {
+        "model": "granite3.1-moe:1b",
+        "timestamp": "2025-05-24 06:23:14",
+        "response": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+        "model": "deepseek-r1:1.5b",
+        "timestamp": "2025-05-24 06:23:15",
+        "response": "<think>\n\n</think>\n\nSure! Here's a light-hearted one:\n\nWhy don\u2019t skeletons fight each other at the park?  \nBecause they\u2019re already leg-lengths away!  \n\n\ud83d\ude04"
+    },
+    {
+        "model": "command-r7b:latest",
+        "timestamp": "2025-05-24 06:23:17",
+        "response": "Sure! Here's a joke for you:\n\nWhy did the scarecrow win an award? Because he was outstanding in his field!\n\nI hope that brought a smile to your face. If you'd like another one, I've got plenty more up my sleeve!"
+    },
+    {
+        "model": "olmo2:13b",
+        "timestamp": "2025-05-24 06:23:24",
+        "response": "Sure, here's a light-hearted joke for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!"
+    },
+    {
+        "model": "deepseek-r1:14b",
+        "timestamp": "2025-05-24 06:23:32",
+        "response": "<think>\n\n</think>\n\nSure! Here's a light-hearted joke for you:\n\nWhy don\u2019t skeletons fight each other?  \nBecause they don\u2019t have the *guts*! \ud83d\ude04"
+    },
+    {
+        "model": "phi4:latest",
+        "timestamp": "2025-05-24 06:23:42",
+        "response": "Sure! Here's a light-hearted one for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!\n\nI hope that brought a smile to your face! \ud83d\ude0a"
+    },
+    {
+        "model": "qwen2.5:14b",
+        "timestamp": "2025-05-24 06:23:51",
+        "response": "Sure, here's a light-hearted joke for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!"
+    },
+    {
+        "model": "hermes3:latest",
+        "timestamp": "2025-05-24 06:23:59",
+        "response": "Sure, here's a classic joke for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!"
+    },
+    {
+        "model": "mistral:latest",
+        "timestamp": "2025-05-24 06:24:03",
+        "response": " Sure, here's a classic math joke for you:\n\nWhy was the equal sign so humble? Because it knew it wasn't less than or greater than anyone else!"
+    },
+    {
+        "model": "gemma2:9b",
+        "timestamp": "2025-05-24 06:24:08",
+        "response": "Why don't scientists trust atoms?\n\nBecause they make up everything!  \ud83d\ude01 \n"
+    }
+]
